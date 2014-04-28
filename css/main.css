@@ -1,0 +1,102 @@
+body	
+{
+
+	font-family: helvetica, serif;
+
+	float:none;
+
+	background-color: #ccc;
+
+	margin: 0 auto;
+
+	text-align: center;
+
+}
+
+#header 
+
+{
+
+width:100%;
+
+height:250px;
+
+padding:0;
+
+margin:0;
+
+}
+
+#logo
+{
+padding-left:50px;
+margin-top:0;
+float:left;
+}
+
+#title
+{
+padding-top:25px;
+padding-bottom:40px;
+}
+#main_block
+{
+padding-bottom:100px;
+}
+
+#navbar ul
+
+{
+
+list-style-type:none;
+
+margin:0;
+
+padding:0;
+
+width:100%;
+
+
+}
+
+
+
+#navbar li
+
+{
+
+padding:0.1%;
+
+}
+
+#navbar a:link,a:visited
+
+{
+
+display:block;
+
+width:166px;
+
+color:#FFFFFF;
+
+background-color:#808080;
+
+text-align:center;
+
+padding:4px;
+
+text-decoration:none;
+
+}
+
+#navbar a:hover,a:active 
+
+{
+
+background-color:#807000;
+
+margin-left:0.1%;
+
+margin-right:0.1%;
+
+}
